@@ -1,14 +1,14 @@
 {
-  "name": "RyuBotz",
+  "name": "X2Botz",
   "version": "1.0.0",
-  "description": "RyuBotz Multi Device",
+  "description": "Bot Saya Multi Device",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Ryuuka Team",
+  "author": "InzGanz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys",
