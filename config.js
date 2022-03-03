@@ -22,14 +22,14 @@ const setting = JSON.parse(fs.readFileSync('./setting.json'))
     
     //===> EDIT SESUAI KEMAUANMU
     global.mess = {
-    admin: '*LU ADMIN? 🤨*',
-    botAdmin: '*BOT BUKAN ADMIN 😔*',
-    owner: '*LU BUKAN OWNER GW 😠*',
-    group: '*KHUSUS GROUP 😏*',
-    private: '*KHUSUS PRIVATE CHAT*',
+    admin: '*Ciuh, Najiz Sok Admin Padalah Member🗿*',
+    botAdmin: '*Anu Jadiin Bot Admin Napa😴*',
+    owner: '*Lu Tinggal Make Jan Pake MenuOwner😉*',
+    group: '*Di Grup Bisanya😗*',
+    private: '*Chat Pribadi Jan Disini🤭*',
     bot: '*KHUSUS PENGGUNA NOMER BOT*',
-    wait: '*SABAR SEDANG DI PROSES ...*',
-    done: '*DONE NGAB 🤗*',
+    wait: '*Tunggu Banh ...*',
+    done: '*Nih Dasar Kuota Chat🗿*',
     }
     global.thumb = fs.readFileSync('./media/ryuu.jpg')
     
