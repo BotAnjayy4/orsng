@@ -1,6 +1,6 @@
 exports.allmenu = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Save Nomor owner ya, dia kesepian:(
 
 *👤 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
@@ -210,6 +210,6 @@ Instagram : @Fandyyy._
 ⚘👾 ${prefix}req
 
 Fitur Nya Masih Dikit Jadi
-Subscribe For Update 🤙
+Sv wa Owner Please😔
 `
 }
