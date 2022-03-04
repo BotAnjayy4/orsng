@@ -186,7 +186,7 @@ Owner : 6289667644225
 }
 
 //GAME MENU
-exports.srandomimg = (prefix) => {
+exports.srandom = (prefix) => {
 	return`Media Sosial 👾
 Owner : 6289667644225
 
