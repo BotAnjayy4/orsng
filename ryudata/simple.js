@@ -17,7 +17,7 @@ exports.list = (pushname, ucapanWaktu, namabot) => {
 //MENU OWNER
 exports.sowner = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *👤 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
@@ -40,7 +40,7 @@ Owner : 6289667644225
 //MENU GRUP
 exports.sgrup = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *👥 GROUP MENU*
 ⚘👾 ${prefix}antilink
@@ -61,7 +61,7 @@ Owner : 6289667644225
 //MENU DOWNLOAD
 exports.sdown = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *📦 DOWNLOAD MENU*
 ⚘👾 ${prefix}tiktoknowm [url]
@@ -80,7 +80,7 @@ Owner : 6289667644225
 //MENU SEARCH
 exports.ssearch = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *🔎 SEARCH MENU*
 ⚘👾 ${prefix}pinterest [query]
@@ -97,7 +97,7 @@ Owner : 6289667644225
 //MENU INFORMASI
 exports.sinfo = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *🗞️ INFORMASI MENU*
 ⚘👾 ${prefix}infogempa
@@ -109,7 +109,7 @@ Owner : 6289667644225
 //MENU NULIS
 exports.snulis = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *✍️ NULIS MENU*
 ⚘👾 ${prefix}nulisbiasa
@@ -123,7 +123,7 @@ Owner : 6289667644225
 //MENU ASUPAN
 exports.sasupan = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *👭 ASUPAN MENU*
 ⚘👾 ${prefix}asupanhijaber
@@ -139,7 +139,7 @@ Owner : 6289667644225
 //MENU CECAN
 exports.scecan = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *👩 CECAN MENU*
 ⚘👾 ${prefix}china
@@ -155,7 +155,7 @@ Owner : 6289667644225
 //CASE FUN MENU
 exports.sfun = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *🎮 FUN MENU*
 ⚘👾 ${prefix}truth
@@ -172,7 +172,7 @@ Owner : 6289667644225
 //GAME MENU
 exports.sgame = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *🎰 GAME MENU*
 ⚘👾 ${prefix}tebak lagu
@@ -188,7 +188,7 @@ Owner : 6289667644225
 //GAME MENU
 exports.srandom = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *🎡 RANDOM MENU*
 ⚘👾 ${prefix}darkjokes
@@ -210,7 +210,7 @@ Owner : 6289667644225
 //MENU ANIME
 exports.sanime = (prefix) => {
 	return`Media Sosial 🌱
-Owner : 6289667644225
+Owner : 6285883197698
 
 *⛩️ ANIME MENU*
 ⚘👾 ${prefix}quotesanime
@@ -251,7 +251,7 @@ Owner : 6289667644225
 //NSFW MENU
 exports.snsfw = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *🔞 NSFW MENU*
 ⚘👾 ${prefix}blowjob
@@ -265,7 +265,7 @@ Owner : 6289667644225
 //MAKER MENU
 exports.smaker = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *👨‍🎨 MAKER MENU*
 ⚘👾 ${prefix}toimage
@@ -282,7 +282,7 @@ Owner : 6289667644225
 //TEXTPRO MENU
 exports.stextpro = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *👨‍🎨 TEXTPRO MENU*
 ⚘👾 ${prefix}serti1 [teks]
@@ -306,7 +306,7 @@ Owner : 6289667644225
 //OTHER MENU
 exports.sother = (prefix) => {
 	return`Media Sosial 👾
-Owner : 6289667644225
+Owner : 6285883197698
 
 *☕ OTHER MENU*
 ⚘👾 ${prefix}simi [teks]
